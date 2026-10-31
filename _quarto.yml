@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Linear Regression Demonstration"
+format:
+  html:
+    toc: true
